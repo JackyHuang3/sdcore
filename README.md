@@ -31,4 +31,4 @@ usage for sdcore:
 selfdata write/read --plugin=sdcore.so|sdcore.dll
 
 [1]: https://www.refitself.cn
-[2]: https://download.refitself.cn/#files%2Fselfdata
+[2]: https://selfdata.refitself.cn
