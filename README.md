@@ -4,6 +4,10 @@ en: **sdcore is the core interface api of selfdata, which supports dynamic data 
 
 zh: **sdcore是私有数据selfdata核心接口api，支持通过自定义构建插件的方式进行动态授权和数据加解密**
 
+## [refitself][1]
+
+## [selfdata][2]
+
 ## Supported API:
 
 - func SDDecrypt(data []byte) []byte
@@ -25,3 +29,6 @@ build sdcore as plugin:
 
 usage for sdcore:
 selfdata write/read --plugin=sdcore.so|sdcore.dll
+
+[1]: https://www.refitself.cn
+[2]: https://download.refitself.cn/#files%2Fselfdata
