@@ -2,7 +2,7 @@
 
 en: **sdcore is the core interface api of selfdata, which supports dynamic data authorization and encryption and decryption through custom building plug-ins**
 
-zh: **sdcore是私有数据selfdata核心接口api，支持通过自定义构建插件的方式进行数据动态授权和加解密**
+zh: **sdcore是私有数据selfdata核心接口api，支持通过自定义构建插件的方式进行动态授权和数据加解密**
 
 ## Supported API:
 
