@@ -28,7 +28,7 @@ build sdcore as plugin:
 4. go build -buildmode=plugin -o sdcore.so work.go
 
 usage for sdcore:
-selfdata write/read --plugin=sdcore.so|sdcore.dll
+selfdata write/read --plugin=sdcore.so
 
 [1]: https://www.refitself.cn
 [2]: https://www.refitself.cn/selfdata
